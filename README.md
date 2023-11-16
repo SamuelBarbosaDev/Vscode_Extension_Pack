@@ -1,2 +1,2 @@
-# Vscode_Extension_Pack
+# Vscode Extension Pack
 Minhas configurações do VsCode.
